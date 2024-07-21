@@ -41,6 +41,10 @@ ul {
   text-decoration: none;
   color: #404bbf;
 }
+.navigation:focus {
+  color: #404bbf;
+}
+
 .navigation-studio:active {
   font-size: 16px;
   font-weight: 500;
