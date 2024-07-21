@@ -51,7 +51,7 @@ ul {
   color: #404bbf;
 }
 
-.navigation .navigation-studio:focus {
+.navigation-studio:focus {
   color: #404bbf;
 }
 .email-phone {
@@ -63,10 +63,10 @@ ul {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contact .contact:hover {
+.contact:hover {
   color: #404bbf;
 }
-.contact .contact:focus {
+.contact:focus {
   color: #404bbf;
 }
 .effective-solutions {
