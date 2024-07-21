@@ -44,20 +44,6 @@ ul {
 .navigation:focus {
   color: #404bbf;
 }
-
-.navigation-studio:active {
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.02em;
-
-  text-decoration: underline;
-  color: #404bbf;
-}
-
-.navigation-studio:focus {
-  color: #404bbf;
-}
 .email-phone {
   font-style: normal;
 }
