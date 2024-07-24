@@ -7,6 +7,9 @@ body {
 ul {
   list-style: none;
 }
+a {
+  text-decoration: none;
+}
 .header-all {
   color: #e7e9fc;
 }
